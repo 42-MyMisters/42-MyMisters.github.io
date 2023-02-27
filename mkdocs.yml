@@ -1,0 +1,24 @@
+site_name: My Misters
+site_url: https://42-MyMisters.github.io
+site_author: my_misters
+site_description: "My Misters's log"
+theme:
+    name: material
+    highlightjs: true
+    shortcuts:
+        help: 191    # ?
+        next: 78     # n
+        previous: 80 # p
+        search: 83   # s
+repo_url: "https://github.com/42-MyMisters/42-MyMisters.github.io"
+copyright: "Copyright @ 2023 <a href='https://github.com/42-MyMisters' >My Misters</a>"
+
+nav:
+  - Home: index.md
+
+  # - Test:
+  #   - Ludwig Wittgenstein:
+  #     - test : 'philosophy/test.md'
+  #   - William James:
+  #     - test : 'philosyphy/test.md'
+
